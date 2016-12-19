@@ -94,5 +94,5 @@
             </plugin>
         </plugins>
     </build>
-
+    <name>bookstore</name>
 </project>
